@@ -1,0 +1,11 @@
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.login.resources
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Properties.Resources.resources
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csproj.GenerateResource.Cache
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Entry.resources
+C:\Users\unrea_000\Downloads\TestProjectDotNet\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.Report.resources
